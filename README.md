@@ -1,7 +1,5 @@
 # AtliQ Hardware Sales Analysis Project
 
-<img width="1497" alt="Screenshot 2023-05-28 at 2 06 36 PM" src="https://github.com/varundeepakgudhe/AtliQ_sales_data_Tableau/assets/112991463/af2f3d53-be09-4036-8c4f-3deb66806d7c">
-
 This project aims to analyze the sales data of AtliQ Hardware, a company that sells hardware products to different sectors in various regions. The company experienced a decrease in sales last year, and the managers want to identify the reasons behind this decline using the available sales data.
 
 ## Project Overview
@@ -40,3 +38,8 @@ To effectively utilize the provided Tableau dashboard, follow these instructions
 ## Conclusion
 
 The AtliQ Hardware Sales Analysis project aimed to identify the reasons behind the decline in sales for the company. By importing the sales data, performing data analysis, creating a star schema, and building visualizations in Tableau, valuable insights were obtained. The dashboard allows users to explore the data interactively and draw conclusions based on the provided visualizations. By utilizing the provided instructions, stakeholders can gain a better understanding of the sales data and identify potential areas for improvement.
+
+## Screenshot of Dashboard:
+
+<img width="1497" alt="Screenshot 2023-05-28 at 2 06 36 PM" src="https://github.com/varundeepakgudhe/AtliQ_sales_data_Tableau/assets/112991463/503ed6be-f8af-43c2-86e8-04a15e9a8675">
+
